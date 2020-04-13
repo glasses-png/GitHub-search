@@ -7,7 +7,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { UsersComponent } from './users/users.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SearchFormComponent } from './search-form/search-form.component';
-import { RepositoriesComponent } from './repositories/repositories.component';
 import { UserserviceService } from './userservice.service';
 import { DatePipePipe } from './date-pipe.pipe';
 import { NgProgressModule } from '@ngx-progressbar/core';
@@ -19,7 +18,6 @@ import { NgProgressHttpClientModule } from '@ngx-progressbar/http-client';
     UsersComponent,
     NavbarComponent,
     SearchFormComponent,
-    RepositoriesComponent,
     DatePipePipe,
     
   ],
