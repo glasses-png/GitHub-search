@@ -9,7 +9,6 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { SearchFormComponent } from './search-form/search-form.component';
 import { RepositoriesComponent } from './repositories/repositories.component';
 import { UserserviceService } from './userservice.service';
-import { HighlightDirective } from './highlight.directive';
 import { DatePipePipe } from './date-pipe.pipe';
 import { NgProgressModule } from '@ngx-progressbar/core';
 import { NgProgressHttpClientModule } from '@ngx-progressbar/http-client';
@@ -21,7 +20,6 @@ import { NgProgressHttpClientModule } from '@ngx-progressbar/http-client';
     NavbarComponent,
     SearchFormComponent,
     RepositoriesComponent,
-    HighlightDirective,
     DatePipePipe,
     
   ],
