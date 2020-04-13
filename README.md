@@ -1,17 +1,17 @@
-# GitSearch
+# GITHUB-SEARCH
 
 
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Charlotte Chelang'at]
 
 ## Description
 
-This is Agular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
+This is an Angular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories.
 
 
 ## Live Page 
-https://Owiti-charles.github.io/Git-Search/ 
+
 
 
 
@@ -46,15 +46,14 @@ Composed of two main components.
 * CSS
 * Bootstrap 
 * Typescript
-* Generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
-## Known Bugs
-* No known bug now but pull requests are encouraged
+
+## Bugs
+* No known bugs
 
 ## Contact Information 
-
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+Reach me through my email address:cchelangat16@gmail.com
 
 ## License
-* *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+MIT LICENCE
+* Copyright (c) 2020 **Charlotte Chelangat**
